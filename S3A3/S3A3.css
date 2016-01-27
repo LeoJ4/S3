@@ -1,0 +1,57 @@
+body 
+{
+	background-image: url(cool.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1
+{
+	font-family: trajan pro;
+	color:  rgb(179,34,21);
+	font-size: 65px;
+	text-align: center;
+}
+
+p.head 
+{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25px;
+}
+
+p.inner
+{
+	font-family: sans-serif;
+	color: white;
+	font-size: 15px;
+
+}
+
+
+#content
+{
+	text-align:center;
+}
+
+#box
+{
+	width: 40%;
+	border : 2px solid white;
+	border-radius: 30px;
+	background-color: rgba(16,23,176,0.2); 
+	margin: auto;	
+
+}
+
+.point 
+{	
+font-size:10pt; 
+cursor:pointer;
+text-decoration:none;
+border-radius: 13px;
+background-color: rgb(176,34,21);
+color: white;
+padding: 5px;
+}
+

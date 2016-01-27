@@ -1,0 +1,13 @@
+table.tab2 td {
+		border: 2px solid blue;
+		border-spacing: 2px;
+		padding: 2px;	
+		color: orange;
+				}
+
+table.tab2 {
+			border: 2px solid blue;
+		border-spacing: 2px;
+		padding: 2px;	
+		color: orange;
+}
